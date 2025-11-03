@@ -26,7 +26,6 @@ local Autorizados = {
     ["robaromeubranrot"] = "Usuario-Admin",
     ["miuuq_333"] = "Usuario-Admin",
     ["BD_GOKENNY"] = "Usuario-Admin",
-    ["foortaq"] = "Usuario-Admin",
 }
 
 --// Jogadores ativos
