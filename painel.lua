@@ -26,6 +26,7 @@ local Autorizados = {
     ["miuuq_333"] = "Usuario-Admin",
     ["BD_GOKENNY"] = "Usuario-Admin",
     ["defia_5uw"] = "Sub-Dono",
+    ["Kaua_452"] = "Dono",
 }
 
 --// Jogadores ativos
